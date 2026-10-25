@@ -1,0 +1,10 @@
+﻿concepto,registros
+Pedidos en el archivo original,99441
+Pedidos sin artículos (cancelados o no disponibles),775
+"Pedidos ""entregados"" sin fecha de entrega",8
+Pedidos con fechas inconsistentes,189
+Pedidos con más de una reseña,555
+Productos sin categoría,610
+IDs de cliente por pedido (customer_id),99441
+Clientes reales (customer_unique_id),96096
+"Pedidos analizados (entregados, ene-2017 a ago-2018)",96203
